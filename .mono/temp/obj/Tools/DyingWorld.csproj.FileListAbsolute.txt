@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\Dokumente\Projekte\DyingWorld\.mono\temp\obj\Tools\DyingWorld.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Dokumente\Projekte\DyingWorld\.mono\temp\obj\Tools\DyingWorld.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Dokumente\Projekte\DyingWorld\.mono\temp\bin\Tools\DyingWorld.dll
+C:\Users\User\OneDrive\Dokumente\Projekte\DyingWorld\.mono\temp\bin\Tools\DyingWorld.pdb
+C:\Users\User\OneDrive\Dokumente\Projekte\DyingWorld\.mono\temp\obj\Tools\DyingWorld.dll
+C:\Users\User\OneDrive\Dokumente\Projekte\DyingWorld\.mono\temp\obj\Tools\DyingWorld.pdb
