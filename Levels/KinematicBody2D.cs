@@ -15,6 +15,12 @@ public class KinematicBody2D : Godot.KinematicBody2D
 		} else {
 			motion.x = 0;
 		}
+		
+		if (IsOnFloor()) {
+			if (Input.IsActionJustPressed("ui_up")) {
+				motion.y = -400;
+			}
+		}
      	motion.y += 10;
 		motion = MoveAndSlide(motion, UP);
     }
