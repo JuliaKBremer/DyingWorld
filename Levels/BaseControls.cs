@@ -1,10 +1,11 @@
 using Godot;
 using System;
 
-public class KinematicBody2D : Godot.KinematicBody2D
+public class BaseControls : Godot.KinematicBody2D
 {
 	Vector2 UP = new Vector2(0, -1);
     Vector2 motion = new Vector2();
+	bool AcceptInput = true;
 
     public override void _PhysicsProcess(float delta)
     {
@@ -24,6 +25,15 @@ public class KinematicBody2D : Godot.KinematicBody2D
      	motion.y += 10;
 		motion = MoveAndSlide(motion, UP);
     }
+	
+	public override void _UnhandledKeyInput(InputEventKey @event)
+	{
+    	if(AcceptInput) {
+			System.Console.WriteLine(@event.Scancode == (int)'K');
+		}
+		
+		AcceptInput = !AcceptInput;
+	}
 
 //    public override void _Process(float delta)
 //    {
@@ -32,3 +42,6 @@ public class KinematicBody2D : Godot.KinematicBody2D
 //        
 //    }
 }
+
+
+

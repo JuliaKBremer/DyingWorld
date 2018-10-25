@@ -24,5 +24,12 @@ public class Panel : Godot.Panel
 	{
 	    GetTree().ChangeScene("res://Levels/Level1.tscn");
 	}
+	
+	private void _on_Button2_pressed()
+	{
+    	GetTree().ChangeScene("res://Levels/Level2.tscn");
+	}
 }
+
+
 

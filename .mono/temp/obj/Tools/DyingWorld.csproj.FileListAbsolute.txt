@@ -10,3 +10,10 @@ C:\Users\Arthur\Git\DyingWorld\.mono\temp\obj\Tools\DyingWorld.csprojAssemblyRef
 C:\Users\Arthur\Git\DyingWorld\.mono\temp\obj\Tools\DyingWorld.csproj.CoreCompileInputs.cache
 C:\Users\Arthur\Git\DyingWorld\.mono\temp\obj\Tools\DyingWorld.dll
 C:\Users\Arthur\Git\DyingWorld\.mono\temp\obj\Tools\DyingWorld.pdb
+C:\Users\User\OneDrive\Dokumente\Projekte\DyingWorld\.mono\temp\bin\Tools\Mono.Security.dll
+C:\Users\User\OneDrive\Dokumente\Projekte\DyingWorld\.mono\temp\bin\Tools\System.Configuration.dll
+C:\Users\User\OneDrive\Dokumente\Projekte\DyingWorld\.mono\temp\bin\Tools\System.Xml.dll
+C:\Users\User\OneDrive\Dokumente\Projekte\DyingWorld\.mono\temp\bin\Tools\Mono.Posix.dll
+C:\Users\User\OneDrive\Dokumente\Projekte\DyingWorld\.mono\temp\bin\Tools\System.Security.dll
+C:\Users\User\OneDrive\Dokumente\Projekte\DyingWorld\.mono\temp\bin\Tools\System.Numerics.dll
+C:\Users\User\OneDrive\Dokumente\Projekte\DyingWorld\.mono\temp\obj\Tools\DyingWorld.csproj.CopyComplete
