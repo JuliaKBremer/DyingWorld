@@ -52,6 +52,7 @@
     <Compile Include="Button.cs" />
     <Compile Include="Levels\BaseControls.cs" />
     <Compile Include="Panel.cs" />
+    <Compile Include="Projectlies\BaseProjectileLogic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
